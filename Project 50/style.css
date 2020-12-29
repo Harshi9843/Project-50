@@ -1,0 +1,41 @@
+h1{
+    color: white;
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.grid img{
+    border: solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+.grid2 img{
+    border: solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.grid2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.origami{
+    background-color: whitesmoke;
+}
